@@ -1,6 +1,10 @@
 # PSU-LaneNet: Custom Lane Segmentation Neural Network from Scratch
 **Assignment-10: Neural Network Design, Implementation, and Evaluation for Lane Segmentation**
 
+> **ผู้จัดทำ (Student Information):**  
+> 👤 **ชื่อ-นามสกุล:** นายภัทรพงศ์ เขาไข่แก้ว  
+> 🆔 **รหัสนักศึกษา:** 6710110312  
+
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-ee4c2c.svg)](https://pytorch.org/)
 [![License](https://img.shields.io/badge/License-Academic%20Use-green.svg)]()
