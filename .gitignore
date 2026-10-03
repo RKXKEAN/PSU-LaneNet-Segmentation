@@ -1,0 +1,24 @@
+# Virtual Environment
+venv/
+env/
+.env/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# IDE & Editors
+.vscode/
+.idea/
+
+# Raw Dataset images (256MB)
+Dataset/
+
+# TensorBoard logs (optional)
+runs/
+
+# System / OS files
+Thumbs.db
+.DS_Store
